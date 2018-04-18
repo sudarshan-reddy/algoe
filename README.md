@@ -5,7 +5,7 @@ This project is an attempt to implement some basic algorithms in Go for practise
 
 ### Graph Algorithms
 
-- [ ] Breadth First Search (BFS)
+- [x] Breadth First Search (BFS)
 - [ ] Depth First Search (DFS)
 - [ ] Shortest Path from source to all vertices **Dijkstra**
 - [ ] Shortest Path from every vertex to every other vertex **Floyd Warshall**
